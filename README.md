@@ -10,4 +10,4 @@ Radius: 1.2 m
 
 Tkinter is employed to provide the user the control of changing the sliders for azimuth (in the increments of 10 degrees) and elevation (in the increments of 45 degrees).
 
-<img width="495" alt="Screenshot 2024-08-28 at 5 37 13 PM" src="https://github.com/user-attachments/assets/3e354571-fe5c-4876-a330-a20a1253601c">
+<img align = "center" width="495" alt="Screenshot 2024-08-28 at 5 37 13 PM" src="https://github.com/user-attachments/assets/3e354571-fe5c-4876-a330-a20a1253601c">
